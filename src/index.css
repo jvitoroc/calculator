@@ -1,0 +1,10 @@
+:global(.clearfix:after){
+    content: "";
+    display: table;
+    clear: both;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto'), url("./fonts/Roboto-Medium.ttf") format('truetype');
+}

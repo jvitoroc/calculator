@@ -1,0 +1,13 @@
+.Buttons{
+    user-select: none;
+}
+
+.leftButtons{
+    width: calc(3 * 40px);
+    display: inline-block;
+}
+
+.rightButtons{
+    display: inline-block;
+    width: 80px;
+}
